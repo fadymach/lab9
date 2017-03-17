@@ -1,8 +1,10 @@
 apply plugin: 'com.android.application'
 
+
+//Changed gradle version
 android {
     compileSdkVersion 18
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         applicationId "ca.ualberta.cs.lonelytwitter"
